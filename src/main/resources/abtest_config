@@ -1,0 +1,1 @@
+90000	曝光去重	evt-alg-fatigue	all	["iphone","android","ipad","server","pc"]	[{"groupName":"c","probability":0.8,"whiteList":{"uploadFile":null,"userIds":[]},"regList":[]},{"groupName":"t","probability":0.2,"whiteList":{"uploadFile":null,"userIds":[]},"regList":[]}]	{"provinceInfo":{"uploadFile":null,"provinces":[]}}	基础测试	1
